@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yi Yang is a seattle based software engineer building full-stack apps and tools."
 author_profile: true
 redirect_from: 
   - /about/
