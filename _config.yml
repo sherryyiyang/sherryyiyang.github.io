@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://raw.githubusercontent.com/sherryyiyang/sherryyiyang.github.io/refs/heads/master/images/profile.png"
   name             : "Yi (Sherry) Yang"
   pronouns         : # example: "she/her"  
   bio              : "Bachelor of Science of Computer Science in University of Washington. Seattle-based software engineer with a has experience building full-stack web applications, and enjoys working on scalable systems with clean, maintainable code."
