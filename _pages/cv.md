@@ -15,7 +15,8 @@ Education
 
 Work experience
 ======
-* InvestBase: Software Enginner
+* **InvestBase: Software Enginner**
+Jun2024 - Apr2025
   * Built and shipped full-stack features for two web products, using React.js, HTML/CSS, and Node.js on the frontend; Flask and SQLAlchemy on the backend; and PostgreSQL as the primary database, integrating both GraphQL and RESTful APIs for client-server communication.
   *	Developed and maintained features including investment workflows, document signing, referral systems, GP/LP profiles, offerings page, property management system, billing flow, and dashboard discovery.
   *	Familiarity with scalability, concurrency, API design, data modeling, and distributed systems fundamentals
@@ -23,28 +24,22 @@ Work experience
   *	Actively participated in on-call rotations, providing critical support and maintaining system reliability.
   
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Cash Flow Portal: Software Enginner Intern**
+ Jun2023-Sept2023
+  * Full-stack developer for a real estate investing marketplace web application, with a backend based on Python Flask and a frontend based on JavaScript, Node.js, HTML, and CSS. 
+  * Implemented core features including Insight page, Dashboard, Connection lists, Global Search bar, YouTube video synchronizer, Slack notification trigger, Document update drawer. 
+  * Implemented automated unit testing, Engaged in CI/CD, code reviews, version control systems (Git)
+  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **HelloBike: Data Analyst Intern**
+Sept2021- Dec2021
+  * Utilized tools such as SQL, Python, and Excel to analyze Event Tracking Data from users' mobile devices. Leveraged this data to predict hot-areas and peak times. This analysis aided the operations team in optimizing bike supply, resulting in a 10% increase in turnover during peak periods.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Projects
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Programming Languages
+  * Python, JavaScript, Golang, SQL, HTML, CSS, Java, C
+* Libraries/Frameworks
+  * Flask, React, Node.js, Spring Boot
+* Databases & Tools
+  *  PostgreSQL, MongoDB, AWS, Git, Unix Command Line
