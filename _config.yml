@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yi Yang"
+title                    : "Yi (Sherry) Yang"
 title_separator          : "-"
-name                     : &name "Sherry Yang"
-description              : &description "Sherry Yang | Seattle software engineer building full-stack apps and tools."
+name                     : &name "Yi (Sherry) Yang"
+description              : &description "Yi (Sherry) Yang | Seattle software engineer building full-stack apps and tools."
 url                      : "https://sherryyiyang.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "sherryyiyang/sherryyiyang.github.io"
