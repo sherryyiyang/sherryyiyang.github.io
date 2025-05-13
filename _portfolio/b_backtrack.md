@@ -7,9 +7,6 @@ Integrated SSN (Spatiotemporal Sequence Networks) for improved cell tracking and
 Bactrack is inspired by ultrack. Bactrack uses segmentation hierarchy to allow various segmentation scenarios, and hierarchy is built on Omnipose dynamic/pixel clustering logic, and using MIP solver to assign cell from frame to frame by maximize weights.
 
 For assignment algorithm, Bactrack includes following MIP solvers: HiGHS, CBC, Gurobi for tracking assignment task. All of these MIP solver will return the same optimized global maximum result but with different run-time speed. For performance comparsion between MIP solvers check this benchmark. In short, the speed of Gurobi is the fastest (Gurobi > HiGHS > CBC).
-
-
-
 [Github repository](https://github.com/yyang35/bactrack)
 <br/><img src='/images/gui.png'>"
 collection: "https://github.com/yyang35/bactrack"
