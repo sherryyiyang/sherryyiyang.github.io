@@ -9,8 +9,7 @@ redirect_from:
 
 I love build thoughtful, scalable web applications that make a difference. I’ve worked across the full stack, from real estate platforms to scientific tooling, and I’m always eager to dive deeper into the backend: distributed systems, API design, data infrastructure, and cloud architecture. 
 
-Lately, I’ve been exploring areas like deep learning, real-time systems, and even Web3 — anything that stretches the boundary between code and creativity. Whether it's shipping production-ready features or optimizing data pipelines for millions of records, I thrive on solving tough problems and learning what’s next. I’m excited about technologies that shape the future — from AI to decentralized platforms — and I’m always looking for opportunities to grow, collaborate, and build what matters.
-
+I’m currently exploring areas like distributed systems, blockchain, and Web3 — technologies that push the boundaries of scalability, reliability, and innovation. I’m especially interested in how large-scale systems are designed, maintained, and optimized to serve millions of users. I’m eager to keep growing, contribute to impactful projects, and collaborate with others who care about building the future.
 
 # 🔧 What I Do
 
