@@ -1,6 +1,6 @@
 ---
 title: "Precovery"
-excerpt: "Precovery of planetoids is a census of minor planets in by optimize condense data searching algorithm. Utilized Python, SQL, bash, and Git to process raw data and enhance the ADAM database. Expanded the database by 20%, adding over 500 million objects and 5 billion observations.
+excerpt: "Precovery of planetoids is a census of minor planets in by optimize condense data searching algorithm. Utilized Python, SQL, bash, and Git to process raw data and enhance the ADAM database. Expanded the database by 20%, adding over 500 million objects and 5 billion observations. [Github repository](https://github.com/B612-Asteroid-Institute/precovery)
 <br/><img src='/images/precovery.png'>"
 collection: "https://github.com/B612-Asteroid-Institute/precovery"
 

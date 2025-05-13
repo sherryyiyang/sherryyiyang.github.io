@@ -2,7 +2,7 @@
 title: "Backtrack"
 excerpt: "A biophysics tool for tracking cell motion and division.
 Backtrack uses Deep learning-based segmentation and motion tracking (MOT) algorithms.
-Integrated SSN (Spatiotemporal Sequence Networks) for improved cell tracking and segmentation of E. coli microscope data, optimizing tracking accuracy and performance. Optimized deep learning model performance for biological datasets using PyTorch, NumPy, OpenCV, scikit-image.
+Integrated SSN (Spatiotemporal Sequence Networks) for improved cell tracking and segmentation of E. coli microscope data, optimizing tracking accuracy and performance. Optimized deep learning model performance for biological datasets using PyTorch, NumPy, OpenCV, scikit-image. [Github repository](https://github.com/yyang35/bactrack)
 <br/><img src='/images/gui.png'>"
 collection: "https://github.com/yyang35/bactrack"
 

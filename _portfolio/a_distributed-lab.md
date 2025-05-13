@@ -5,7 +5,7 @@ excerpt: "This repository contains my Go implementations of distributed systems 
 Projects include a simplified **MapReduce framework** with task scheduling, worker registration, fault tolerance, and coordination between mappers and reducers for parallel data processing; 
 a full **Raft consensus** algorithm implementation covering leader election, log replication, term persistence, and crash recovery; a replicated key/value store layered on Raft that guarantees linearizability under failures; 
 
-a **sharded key/value service** that supports dynamic configuration and shard migration between replica groups; and a persistent key/value store with snapshotting and state recovery to handle large logs and node restarts. Each module is built with a focus on fault tolerance, concurrency, and distributed correctness under real-world conditions.
+a **sharded key/value service** that supports dynamic configuration and shard migration between replica groups; and a persistent key/value store with snapshotting and state recovery to handle large logs and node restarts. Each module is built with a focus on fault tolerance, concurrency, and distributed correctness under real-world conditions. [Github repository](https://github.com/sherryyiyang/distributed-systems-labs)
 <br/><img src='/images/leader_election.png'>"
 collection: "https://github.com/sherryyiyang/distributed-systems-labs"
 
