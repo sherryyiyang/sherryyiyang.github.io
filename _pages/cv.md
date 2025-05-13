@@ -32,9 +32,8 @@ Work experience
   
 
 * **HelloBike: Data Analyst Intern** |
-Sept2021- Dec2021
+  Sept2021- Dec2021
   * Utilized tools such as SQL, Python, and Excel to analyze Event Tracking Data from users' mobile devices. Leveraged this data to predict hot-areas and peak times. This analysis aided the operations team in optimizing bike supply, resulting in a 10% increase in turnover during peak periods.
-  
   * Enhanced bike-sharing efficiency by analyzing backend data to predict high-demand locations and maintenance needs, improving fleet availability and reliability.
   * Conducted data analytics on datasets like "bike heartbeat", "Warehouse & transport history" to predict non-functional bikes (either damaged or missing). This provided insights to the maintenance team. 
 	Developed auto-refreshing tables, accompanied by four data visualization pages, and numerous reports. 
